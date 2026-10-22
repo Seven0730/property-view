@@ -1,4 +1,0 @@
-viewing_id,confirmation,confirmed_at,confirmed_by,property_id,confirmation_note
-DEMO-001,unavailable,2026-10-21T09:10:00+08:00,示例确认人,DEMO-P-001,演示：负责人确认已签约
-DEMO-002,available,2026-10-21T09:12:00+08:00,示例确认人,DEMO-P-002,演示：已确认具体可看房源
-DEMO-003,unknown,2026-10-21T09:15:00+08:00,示例确认人,,演示：未能联系房源负责人
